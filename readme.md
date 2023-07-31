@@ -16,7 +16,7 @@ Next, update Composer from the Terminal:
 
 Once this operation completes, the final step is to add the service provider. Open `config/app.php`, and add a new item to the service providers array.
 
-    'Camroncade\Timezone\TimezoneServiceProvider'
+    'IonutRusen\Timezone\TimezoneServiceProvider'
 
 Now it's ready for use!
 
