@@ -1,4 +1,4 @@
-<?php namespace Camroncade\Timezone;
+<?php namespace IonutRusen\Timezone;
 
 use DateTime;
 use DateTimeZone;
