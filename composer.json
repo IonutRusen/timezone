@@ -19,7 +19,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Camroncade\\Timezone\\": "src/"
+            "IonutRusen\\Timezone\\": "src/"
         }
     },
     "minimum-stability": "stable",

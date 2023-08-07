@@ -1,4 +1,4 @@
-<?php namespace Camroncade\Timezone;
+<?php namespace IonutRusen\Timezone;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
@@ -19,7 +19,7 @@ class TimezoneServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		AliasLoader::getInstance()->alias('Timezone', \Camroncade\Timezone\Facades\Timezone::class);
+		AliasLoader::getInstance()->alias('Timezone', \IonutRusen\Timezone\Facades\Timezone::class);
 	}
 
 	/**

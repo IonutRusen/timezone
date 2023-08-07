@@ -1,4 +1,4 @@
-<?php namespace Camroncade\Timezone\Facades;
+<?php namespace IonutRusen\Timezone\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
